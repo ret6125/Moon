@@ -1,7 +1,7 @@
 # Site
-title:              Denis
+# title:              Denis
 bio:                "Denis blog"
-description:        "Denis blog"
+description:        "Developer blog"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/Denis.png'
