@@ -9,5 +9,6 @@ tag:
 - blog
 - about
 - theme
+- Denis blog
 comments: true
 ---
