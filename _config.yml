@@ -11,7 +11,7 @@ locale:             UTF-8
 url:                https://ret6125.github.io
 
 # Jekyll
-permalink:          /:title/
+permalink:          "Denis"
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
