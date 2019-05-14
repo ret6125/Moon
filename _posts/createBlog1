@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Git 블로그 만들기 (1단계)"
+date:   2019-05-14
+project: true
+tag:
+- jekyll 
+- moon
+- blog
+- about
+- theme
+comments: true
+---
