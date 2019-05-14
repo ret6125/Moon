@@ -34,7 +34,7 @@ url: https://ret6125.github.io
 
 baseurl: /
 
-# Website info
+## Website info
 #### 자신의 blog title.
 title: IT Blog
 
@@ -58,7 +58,7 @@ production_url: https://moon9342.github.io/
 source_url: https://github.com/moon9342/GitHubPageMaker/
 
 
-# Social info
+## Social info
 #### Navigation bar link 유무
 navigation: True
 
@@ -74,19 +74,19 @@ twitter:
 facebook:
 
 
-# Disqus
+## Disqus
 #### 온라인 댓글 시스템. 댓글 기능을 사용 유무
 disqus: True
 #### disqus shortname을 입력 ( disqus username (X) )
 disqus_shortname: sunghoons-blog
 
 
-# Google Analytics
+## Google Analytics
 #### Google Analytics을 사용할 경우 GA tracking identifier를 입력
 google_analytics:  #### replace with your GA tracking identifier
 
 
-# Permalinks
+## Permalinks
 permalink: /:title
 #### permalink: /author/:author
 #### permalink: /tag/:title
