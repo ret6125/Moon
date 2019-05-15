@@ -11,6 +11,7 @@ comments: true
 ### gitHub 블로그 만들기
 1.create1
 ----
+<hr/>
     
 <!-- <a class = "btn zoombtn" href="https://github.com/ret6125/ret6125.github.io.git">kbd1</a>: gitHub 블로그 만들기 (기초) -->
 
