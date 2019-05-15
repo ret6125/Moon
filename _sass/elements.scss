@@ -70,6 +70,21 @@
         color: $info;
       }
     }
+
+    &.btn-title {
+      background-color: $warning;
+      color: $white;
+      border-color: $warning;
+      margin: 4px auto;
+	  padding: 4px 8px 4px 8px;
+      &:visited {
+        color: $white;
+      }
+      &:hover {
+        background-color: $white;
+        color: $warning;
+      }
+    }
 }
 .title .btn {
     margin: 10px;
