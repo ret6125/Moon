@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test"
+title:  "블로그 만들기(환경설정)"
 date:   2019-05-14
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
