@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Info
+title: 전체 목록
 tags: [about, info]
 date: 2016-03-21
 comments: true
