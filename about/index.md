@@ -10,7 +10,7 @@ comments: true
 
 ### gitHub 블로그 만들기
 1. [기초편](www.hashcode.co.kr)
-<a class = "btn zoombtn" href="https://github.com/ret6125/ret6125.github.io.git">기초편</a> gitHub 블로그 만들기 (기초)
+2. <a class = "btn zoombtn" href="https://github.com/ret6125/ret6125.github.io.git">기초편</a> gitHub 블로그 만들기 (기초)
 <hr/>
     
 
