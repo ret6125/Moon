@@ -9,7 +9,7 @@ comments: true
 <center><a href="https://github.com/ret6125/ret6125.github.io.git"><b>Git Hub</b></a>를 기반으로 블러그를 운영하고 있습니다.</center>
 
 ### gitHub 블로그 만들기
-1.create1
+1. create1
 ----
 <hr/>
     
