@@ -16,28 +16,28 @@ comments: true
 
 > kramdown : markdown 업데이트된 버전
 
-markdown: kramdown
+### markdown: kramdown
 
 
 >  text highlighter 강조 : 2016.02월 이후 rouge만 지원
 
-highlighter: rouge
+### highlighter: rouge
 
 >  페이지당 보여지는 max갯수 설정
 
-paginate: 10
+### paginate: 10
 
 >  언어 설정
 
-language: 'en-uk'
+### language: 'en-uk'
 
 >  없을 경우 Google Search Console에서 sitemap.xml 정상적인 생성 불가
 >  또한 disqus( 댓글 시스템)를 이용하기 위해서도 필요.
 >  자신의 github page url을 입력 ( https:>yourID.github_id.github.io 형식 )
-url: https:>ret6125.github.io
+### url: https:>ret6125.github.io
 
 
-baseurl: /
+### baseurl: /
 
 ## Website info
 >  자신의 blog title.
