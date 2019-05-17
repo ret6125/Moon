@@ -15,20 +15,16 @@ comments: true
 # Jekyll configuration
 
 > kramdown : markdown 업데이트된 버전
-
-### markdown: kramdown
+#### markdown: kramdown
 
 
 >  text highlighter 강조 : 2016.02월 이후 rouge만 지원
-
 ### highlighter: rouge
 
 >  페이지당 보여지는 max갯수 설정
-
 ### paginate: 10
 
 >  언어 설정
-
 ### language: 'en-uk'
 
 >  없을 경우 Google Search Console에서 sitemap.xml 정상적인 생성 불가
