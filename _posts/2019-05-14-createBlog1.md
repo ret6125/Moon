@@ -30,14 +30,15 @@ comments: true
 ### language: 'en-uk'
 <hr/>
 
-//  없을 경우 Google Search Console에서 sitemap.xml 정상적인 생성 불가
-//  또한 disqus( 댓글 시스템)를 이용하기 위해서도 필요.
-//  자신의 github page url을 입력 ( https://yourID.github_id.github.io 형식 )
+/*  없을 경우 Google Search Console에서 sitemap.xml 정상적인 생성 불가
+    또한 disqus( 댓글 시스템)를 이용하기 위해서도 필요.
+    자신의 github page url을 입력 ( https://yourID.github_id.github.io 형식 )
+*/
 ### url: https://ret6125.github.io
 <hr/>
 
 
-### baseurl: /
+### baseurl:
 <hr/>
 
 ## Website info
