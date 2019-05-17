@@ -59,8 +59,8 @@ production_url: https://moon9342.github.io/
 //  blogmaker(jekyll source folder)의 github repository
 source_url: https://github.com/moon9342/GitHubPageMaker/
 
-## Social info
 <hr/>
+## Social info
 //  Navigation bar link 유무
 navigation: True
 
