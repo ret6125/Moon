@@ -14,8 +14,8 @@ comments: true
 
 # Jekyll configuration
 
-### markdown: kramdown
 // kramdown : markdown 업데이트된 버전
+### markdown: kramdown
 <hr/>
 
 //  text highlighter 강조 : 2016.02월 이후 rouge만 지원
