@@ -32,7 +32,7 @@ step:
 ### 5. Jekyll 가져오기 : Fork 버튼 클릭
 
 ### 6. Git 설정
-> 6-1. 가져온 사이트의 Tab에서 Settings클릭 </br>
+> 6-1. 가져온 사이트의 Tab에서 Settings클릭 <br/>
 6-2. Repository name : 닉네임.github.io 설정 후, Rename클릭
 
 ### 7. 자신의 블로그 확인 : 닉네임.github.io 검색
