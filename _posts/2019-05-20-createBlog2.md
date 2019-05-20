@@ -2,7 +2,7 @@
 layout: post
 title:  "블로그 만들기(환경설정)"
 date:   2019-05-20
-excerpt: "Git hub 블로그"
+excerpt: "Git hub 블로그 환경설정 정리"
 tag:
 - blog
 - markdown 
