@@ -13,7 +13,12 @@ comments: true
 > HTML -> XML -> JSON형식으로 진행됨.
 
 ## Content-Type 의 종류
-> Multipart Related MIME | XML Media | Application | Audio | Multipart | TEXT
+ - Multipart Related MIME 
+ - XML Media 
+ - Application 
+ - Audio 
+ - Multipart 
+ - TEXT
 
 ## 선언 방식 
  - ASP  : <% Response.ContentType = "text/html" %>
