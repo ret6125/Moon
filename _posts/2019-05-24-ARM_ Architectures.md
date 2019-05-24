@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[iOS] ARM 아키텍쳐"
-date:   2019-05-14
+date:   2019-05-24
 excerpt: ""
 tag:
 - ARM 
