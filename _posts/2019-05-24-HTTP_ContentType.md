@@ -21,9 +21,9 @@ comments: true
  - TEXT
 
 ## 선언 방식 
- - ASP  : "<% Response.ContentType = "text/html" %>"
- - JSP  : "<%@ page contentType="text/html" %>"
- - PHP  : "<?PHP header("Content-Type:text/html"); ?>"
+ - ASP  : <% Response.ContentType = "text/html" %>
+ - JSP  : <%@ page contentType="text/html" %>
+ - PHP  : PHP header("Content-Type:text/html");
  - Perl : "Content-type: text/html\n\n"
 
 ### Multipart Related MIME 타입
