@@ -16,10 +16,10 @@ comments: true
 > Multipart Related MIME | XML Media | Application | Audio | Multipart | TEXT
 
 ## 선언 방식 
-> ASP  | <% Response.ContentType = "text/html" %>
-> JSP  | <%@ page contentType="text/html" %>
-> PHP  | <?PHP header("Content-Type:text/html"); ?>
-> Perl | "Content-type: text/html\n\n"
+ - ASP  | <% Response.ContentType = "text/html" %>
+ - JSP  | <%@ page contentType="text/html" %>
+ - PHP  | <?PHP header("Content-Type:text/html"); ?>
+ - Perl | "Content-type: text/html\n\n"
 
 ### Multipart Related MIME 타입
  - Multipart/related : 기본 형태
