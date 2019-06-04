@@ -21,7 +21,6 @@ comments: true
 <hr/>
 ## 2XX - 성공 : request 처리 완료
 > 일반적으로 200 / 206 사용
-## 2XX - 성공 : request 처리 완료
 <hr/>
 
 ### 200 : OK
